@@ -7,3 +7,9 @@
     <strong>Marp</strong>: Markdown Presentation Ecosystem
   </p>
 </div>
+
+
+# Установка Marp
+1. Установка плагина Marp в VS Code
+   
+   
